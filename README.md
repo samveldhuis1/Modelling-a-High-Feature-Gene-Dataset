@@ -4,16 +4,16 @@
 This project focuses on the analysis and prediction of biological data, specifically utilizing various machine learning techniques to understand and predict outcomes based on gene expression levels. It includes data preprocessing, exploratory data analysis (EDA), feature selection, model fitting, and evaluation. 
 The data consists of simulated genes with hypothetical expression values.
  
-### Requirements
-ipywidgets 
-matplotlib 
-numpy 
-pandas 
-seaborn 
-scikit-learn 
-xgboost 
-tensorflow 
- 
+### Requirements 
+ipywidgets  
+matplotlib  
+numpy  
+pandas  
+seaborn  
+scikit-learn  
+xgboost  
+tensorflow  
+  
 ### Usage
 The notebook is divided into sections, starting from data loading, followed by preprocessing and exploratory data analysis, and finally, model training and evaluation. Here's a brief overview of what each major section does: 
  

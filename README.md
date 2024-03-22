@@ -1,7 +1,7 @@
 ### High Feature Gene Project 
  
 ### Overview 
-This project focuses on the analysis and prediction of biological data, specifically utilizing various machine learning techniques to understand and predict outcomes based on gene expression levels. It includes data preprocessing, exploratory data analysis (EDA), feature selection, model fitting, and evaluation. 
+This project focuses on the analysis and prediction of biological data, specifically utilizing various machine learning techniques to understand and predict outcomes based on gene expression levels. 
 The data consists of simulated genes with hypothetical expression values.
  
 ### Requirements 
